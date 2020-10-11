@@ -1,4 +1,3 @@
-# :sake:Konnichiwa, Watashi ha Rittyan desu! :sushi:
 :bamboo: I'm a Japanese software engineer with 5+ years experience in backend, Infrastructure and frontend. 
 
 :sushi: Finding and solving problems is my passion. To that end, I'm constantly learning about new technologies and tools. 
